@@ -1,0 +1,12 @@
+1. Kaj je to tabela in kaj element?
+Tabela je zaporedje podatkov, ki imajo (praviloma) soroden pomen.
+Posamezne podatke v tabeli imenujemo elementi.
+
+2. Kakšna je razlika med elementom in indeksom? Kakšen indeks ima prvi element tabele?
+Element je vsaka številka, črka ali beseda, ki se nahaja v tabeli. Indeks pa je številka, ki nam pove na katerem mestu v tabelu se ta določena črka, beseda ali številka nahaja. Prvi indeks tabele v Pythonu je vedno 0.
+
+3. Kakšne operacije lahko izvajamo nad elementi tabele?
+Elemente lahko v tabelo dodajamo, odstranjujemo, premeščamo, seštevamo, odštevamo, množimo, delimo, večamo, manjšamo, skoraj vse kar nam duša poželi.
+
+4. Kako se lahko sprehodimo po elementih tabele?
+Po elementih tabele se sprehodimo s funkcijo len()
